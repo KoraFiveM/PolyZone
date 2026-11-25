@@ -24,3 +24,5 @@ client_scripts {
 server_scripts {
     'server.lua'
 }
+
+server_script 'kora_versioncheck.lua'
